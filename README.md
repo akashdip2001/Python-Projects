@@ -11,4 +11,6 @@ pip install phonenumbers
 
 ---
 
-### 02 Instagram Automate
+### 07 Google Translator (GUI)
+
+<img src="07 Google Translator (GUI)/Screenshot (28).png">
