@@ -123,6 +123,7 @@ This should allow you to proceed without encountering those package version conf
 
 ## Error 02
 
+<img src="kivy_python.jpg">
 <img src="Screenshot (31).png">
 
 [Google Colab Link](https://colab.research.google.com/drive/1oZQIyIRl7AbND04W6lIT9oWt3PYT-5Rd?usp=sharing)
