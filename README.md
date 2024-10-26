@@ -22,3 +22,18 @@ pip install phonenumbers
 
 ### 06 Send Mail
 <img src="06 Send Mail/smtp_mail_python.jpg">
+
+# Projects
+
+<img src="https://github.com/akashdip2001/ML-Machine-Learning/blob/main/py/sources/pdf/img/python_roadmap.jpg">
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/akashdip2001/ML-Machine-Learning/blob/main/py/sources/pdf/img/python_projects.jpg" alt="python projects" style="width: 45%; height: auto;"/>
+  <img src="https://github.com/akashdip2001/ML-Machine-Learning/blob/main/py/sources/pdf/img/python_H@cking_projects.jpg" alt="pythonprojects" style="width: 45%; height: auto;"/>
+</div>
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/akashdip2001/ML-Machine-Learning/blob/main/py/sources/pdf/img/python_projects_01.jpg" alt="python project" style="width: 30%; height: auto;"/>
+  <img src="https://github.com/akashdip2001/ML-Machine-Learning/blob/main/py/sources/pdf/img/python_projects_02.jpg" alt="python project" style="width: 30%; height: auto;"/>
+  <img src="https://github.com/akashdip2001/ML-Machine-Learning/blob/main/py/sources/pdf/img/python_projects_03.jpg" alt="python project" style="width: 30%; height: auto;"/>
+</div>
