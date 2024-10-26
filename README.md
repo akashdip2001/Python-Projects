@@ -11,6 +11,10 @@ pip install phonenumbers
 
 ---
 
+### 06 Send Mail
+
+<img src="06 Send Mail/smtp_mail_python.jpg">
+
 ### 07 Google Translator (GUI)
 
 <img src="07 Google Translator (GUI)/Screenshot (28).png">
