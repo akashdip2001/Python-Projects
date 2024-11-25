@@ -6,13 +6,13 @@ Py Projects
 │── Python Projects
 │── Django Projects
 │     │
-│     │── Twitter: (under Devlopement)
+│     │── Twitter: (under Devlopment)
 │     └── ...
-│── ...
-│── ...
-└── ...
-      
+└── ...    
 ```
+
+| [notes](https://github.com/akashdip2001/ML-Machine-Learning/blob/main/py/README.md) | [Python Projects](https://github.com/akashdip2001/Python-Projects) | [Django Projects](https://github.com/akashdip2001/pyTweet) |
+| --- | --- | --- |
 
 ![Screenshot (26)](https://github.com/user-attachments/assets/a654c5b6-8711-4a88-bb34-580a65f4c981)
 
