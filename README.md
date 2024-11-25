@@ -1,5 +1,19 @@
 # Python-Projects
 
+```yaml
+PY Projects
+│
+│── Python Projects
+│── Django Projects
+│     │
+│     │── Twitter: (under Devlopement)
+│     └── ...
+│── ...
+│── ...
+└── ...
+      
+```
+
 ![Screenshot (26)](https://github.com/user-attachments/assets/a654c5b6-8711-4a88-bb34-580a65f4c981)
 
 ### 01 Phone no Detales
