@@ -1,7 +1,7 @@
 # Python-Projects
 
 ```yaml
-PY Projects
+Py Projects
 │
 │── Python Projects
 │── Django Projects
