@@ -11,8 +11,8 @@ Py Projects
 └── ...    
 ```
 
-| [notes](https://github.com/akashdip2001/ML-Machine-Learning/blob/main/py/README.md) | [Python Projects](https://github.com/akashdip2001/Python-Projects) | [Django Projects](https://github.com/akashdip2001/pyTweet) |
-| --- | --- | --- |
+| [notes](https://github.com/akashdip2001/ML-Machine-Learning/blob/main/py/README.md) | [Python Projects](https://github.com/akashdip2001/Python-Projects) | [Django Projects](https://github.com/akashdip2001/pyTweet) | [python-advance](https://github.com/akashdip2001/python-advance) |
+| --- | --- | --- | --- |
 
 ![Screenshot (26)](https://github.com/user-attachments/assets/a654c5b6-8711-4a88-bb34-580a65f4c981)
 
