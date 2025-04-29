@@ -2,6 +2,8 @@ Control the onboard LED of your **Arduino Nano** on **local Wi-Fi network (LAN)*
 
 https://github.com/user-attachments/assets/3149e144-ed85-4816-860e-ef03a3be9ade
 
+> click to see the main [GitHub repo](https://github.com/akashdip2001/Remote-LED-Blink/tree/main/Arduino%20boards%20with%20NO%20wifi) for `ARDUINO`, `ESP`, & `STM` 
+
 ---
 
 ## 🧰 What You Need:
