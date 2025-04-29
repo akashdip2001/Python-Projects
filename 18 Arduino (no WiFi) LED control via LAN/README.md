@@ -2,7 +2,7 @@ Control the onboard LED of your **Arduino Nano** on **local Wi-Fi network (LAN)*
 
 https://github.com/user-attachments/assets/3149e144-ed85-4816-860e-ef03a3be9ade
 
-> click to see the main [GitHub repo](https://github.com/akashdip2001/Remote-LED-Blink/tree/main/Arduino%20boards%20with%20NO%20wifi) for `ARDUINO`, `ESP`, & `STM` 
+> click to see the main [GitHub repo](https://github.com/akashdip2001/Remote-LED-Blink/tree/main/Arduino%20boards%20with%20NO%20wifi) for `ARDUINO`, `ESP`, `STM` & `raspberry pi` 
 
 ---
 
@@ -38,6 +38,9 @@ Open a terminal (CMD or PowerShell on Windows, or Terminal on macOS/Linux) and r
 pip install pyserial flask
 ```
 
+<img src="18 Arduino (no WiFi) LED control via LAN/public/Screenshot (418).png">
+<img src="18 Arduino (no WiFi) LED control via LAN/public/Screenshot (420).png">
+
 ---
 
 ## 💡 Step 2: Arduino Sketch
@@ -61,6 +64,8 @@ void loop() {
   }
 }
 ```
+
+<img src="18 Arduino (no WiFi) LED control via LAN/public/Screenshot (421).png">
 
 1. Select the correct board: **Tools > Board > Arduino Nano**
 2. Select the correct port: **Tools > Port**
@@ -192,6 +197,8 @@ You should see:
 ```
 Running on http://0.0.0.0:5000/
 ```
+
+<img src="18 Arduino (no WiFi) LED control via LAN/public/Screenshot (422).png">
 
 Now it’s serving requests over your local network!
 
